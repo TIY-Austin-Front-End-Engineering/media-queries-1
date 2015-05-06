@@ -38,7 +38,7 @@ After completing this assignment, you be able to effectively use
 
 
 ## Normal Mode
-Clone this repository from GitHub. In it you will see a `/dist` folder with some HTML and CSS for the mobile version of a pricing page. By only modifying the `dist/css/breakpoints.css` file, replicate the following page layout when the browser width reaches 768px. The website layout and style should remain unchanged if the browser width is less than 768px.
+Fork this repository from GitHub. In it you will see a `/dist` folder with some HTML and CSS for the mobile version of a pricing page. By only modifying the `dist/css/breakpoints.css` file, replicate the following page layout when the browser width reaches 768px. The website layout and style should remain unchanged if the browser width is less than 768px.
 
 [Medium Breakpoint](target.png)
 
