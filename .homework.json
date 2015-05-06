@@ -1,0 +1,17 @@
+{
+    "name": "media-queries-1",
+    "version": "0.0.1",
+    "title": "Media Queries 1",
+    "description": "Build out the first breakpoint of a responsive website using media queries.",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "css",
+        "html",
+        "media queries",
+        "mobile",
+        "responsive"
+    ]
+}
